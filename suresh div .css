@@ -1,0 +1,6 @@
+body{background-color:rgb(204, 222, 192); margin: 80PX; border: 3px; border-color: rgb(9, 241, 94);}
+nav{text-align: center; color: black; background-color: rgb(218, 206, 206); height: 50px; font-size: 40px;}
+img{height: 170px; display: inline-block; margin-left: 200px; margin-top: 12PX;}
+div{display:block; background-color: aquamarine;}
+h1{display: inline-block;}
+table{background-color: beige; border-color: blueviolet; margin: 30PX 30px 30px 3px; width: 100%;}
